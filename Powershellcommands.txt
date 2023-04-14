@@ -1,0 +1,10 @@
+# with Variable
+script argValue[0] argValue[1]
+#eg .\sample1.ps1 chandra sekhar
+
+#with parameters
+script -parameter1 <parametervalue> -parameter3 <parametervalue> -parameter2 <parametervalue>
+.\SampleParm.ps1 -firstName chandra -middleName sekhar -lastName pechetti
+
+
+help New-AzResourceGroup

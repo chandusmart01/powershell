@@ -1,0 +1,2 @@
+help New-AzResourceGroup
+help Get-Service -ShowWindow
